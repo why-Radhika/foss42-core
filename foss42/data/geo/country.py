@@ -1370,6 +1370,36 @@ SUB_FR = [{KEY_CODE: 'ARA', KEY_NAME: 'Auvergne-Rhône-Alpes', KEY_CAT: 'region'
 ]
 
 
+SUB_BR = [{KEY_CODE: 'AC', KEY_NAME: 'Acre', KEY_CAT: 'state'},
+    {KEY_CODE: 'AL', KEY_NAME: 'Alagoas', KEY_CAT: 'state'},
+    {KEY_CODE: 'AP', KEY_NAME: 'Amapá', KEY_CAT: 'state'},
+    {KEY_CODE: 'AM', KEY_NAME: 'Amazonas', KEY_CAT: 'state'},
+    {KEY_CODE: 'BA', KEY_NAME: 'Bahia', KEY_CAT: 'state'},
+    {KEY_CODE: 'CE', KEY_NAME: 'Ceará', KEY_CAT: 'state'},
+    {KEY_CODE: 'DF', KEY_NAME: 'Distrito Federal', KEY_CAT: 'federal district'},
+    {KEY_CODE: 'ES', KEY_NAME: 'Espírito Santo', KEY_CAT: 'state'},
+    {KEY_CODE: 'GO', KEY_NAME: 'Goiás', KEY_CAT: 'state'},
+    {KEY_CODE: 'MA', KEY_NAME: 'Maranhão', KEY_CAT: 'state'},
+    {KEY_CODE: 'MT', KEY_NAME: 'Mato Grosso', KEY_CAT: 'state'},
+    {KEY_CODE: 'MS', KEY_NAME: 'Mato Grosso do Sul', KEY_CAT: 'state'},
+    {KEY_CODE: 'MG', KEY_NAME: 'Minas Gerais', KEY_CAT: 'state'},
+    {KEY_CODE: 'PA', KEY_NAME: 'Pará', KEY_CAT: 'state'},
+    {KEY_CODE: 'PB', KEY_NAME: 'Paraíba', KEY_CAT: 'state'},
+    {KEY_CODE: 'PR', KEY_NAME: 'Paraná', KEY_CAT: 'state'},
+    {KEY_CODE: 'PE', KEY_NAME: 'Pernambuco', KEY_CAT: 'state'},
+    {KEY_CODE: 'PI', KEY_NAME: 'Piauí', KEY_CAT: 'state'},
+    {KEY_CODE: 'RJ', KEY_NAME: 'Rio de Janeiro', KEY_CAT: 'state'},
+    {KEY_CODE: 'RN', KEY_NAME: 'Rio Grande do Norte', KEY_CAT: 'state'},
+    {KEY_CODE: 'RS', KEY_NAME: 'Rio Grande do Sul', KEY_CAT: 'state'},
+    {KEY_CODE: 'RO', KEY_NAME: 'Rondônia', KEY_CAT: 'state'},
+    {KEY_CODE: 'RR', KEY_NAME: 'Roraima', KEY_CAT: 'state'},
+    {KEY_CODE: 'SC', KEY_NAME: 'Santa Catarina', KEY_CAT: 'state'},
+    {KEY_CODE: 'SP', KEY_NAME: 'São Paulo', KEY_CAT: 'state'},
+    {KEY_CODE: 'SE', KEY_NAME: 'Sergipe', KEY_CAT: 'state'},
+    {KEY_CODE: 'TO', KEY_NAME: 'Tocantins', KEY_CAT: 'state'}
+]
+
+
 SUB_SUPPORTED = {
     "CA": SUB_CA,
     "KR": SUB_KR,
@@ -1382,4 +1412,5 @@ SUB_SUPPORTED = {
     "AE": SUB_AE,
     "ES": SUB_ES,
     "FR": SUB_FR,
+    "BR": SUB_BR,
 }
