@@ -1349,6 +1349,27 @@ SUB_ES = [{KEY_CODE: 'C', KEY_NAME: 'La Coruña', KEY_CAT: 'province'},
  {KEY_CODE: 'CE', KEY_NAME: 'Ceuta', KEY_CAT: 'autonomous city in North Africa'},
  {KEY_CODE: 'ML', KEY_NAME: 'Melilla', KEY_CAT: 'autonomous city in North Africa'}]
 
+SUB_FR = [{KEY_CODE: 'ARA', KEY_NAME: 'Auvergne-Rhône-Alpes', KEY_CAT: 'region'},
+    {KEY_CODE: 'BFC', KEY_NAME: 'Bourgogne-Franche-Comté', KEY_CAT: 'region'},
+    {KEY_CODE: 'BRE', KEY_NAME: 'Bretagne', KEY_CAT: 'region'},
+    {KEY_CODE: 'CVL', KEY_NAME: 'Centre-Val de Loire', KEY_CAT: 'region'},
+    {KEY_CODE: 'GES', KEY_NAME: 'Grand Est', KEY_CAT: 'region'},
+    {KEY_CODE: 'HDF', KEY_NAME: 'Hauts-de-France', KEY_CAT: 'region'},
+    {KEY_CODE: 'IDF', KEY_NAME: 'Île-de-France', KEY_CAT: 'region'},
+    {KEY_CODE: 'NOR', KEY_NAME: 'Normandie', KEY_CAT: 'region'},
+    {KEY_CODE: 'NAQ', KEY_NAME: 'Nouvelle-Aquitaine', KEY_CAT: 'region'},
+    {KEY_CODE: 'OCC', KEY_NAME: 'Occitanie', KEY_CAT: 'region'},
+    {KEY_CODE: 'PDL', KEY_NAME: 'Pays de la Loire', KEY_CAT: 'region'},
+    {KEY_CODE: 'PAC', KEY_NAME: 'Provence-Alpes-Côte d\'Azur', KEY_CAT: 'region'},
+    {KEY_CODE: 'COR', KEY_NAME: 'Corse', KEY_CAT: 'region'},
+    {KEY_CODE: 'GUA', KEY_NAME: 'Guadeloupe', KEY_CAT: 'overseas region'},
+    {KEY_CODE: 'GUF', KEY_NAME: 'Guyane', KEY_CAT: 'overseas region'},
+    {KEY_CODE: 'LRE', KEY_NAME: 'La Réunion', KEY_CAT: 'overseas region'},
+    {KEY_CODE: 'MAY', KEY_NAME: 'Mayotte', KEY_CAT: 'overseas region'},
+    {KEY_CODE: 'MTQ', KEY_NAME: 'Martinique', KEY_CAT: 'overseas region'}
+]
+
+
 SUB_SUPPORTED = {
     "CA": SUB_CA,
     "KR": SUB_KR,
@@ -1360,4 +1381,5 @@ SUB_SUPPORTED = {
     "SG": SUB_SG,
     "AE": SUB_AE,
     "ES": SUB_ES,
+    "FR": SUB_FR,
 }
